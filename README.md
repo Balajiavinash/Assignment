@@ -1,6 +1,6 @@
 # Assignment
 
-# CI/CD Pipeline for Web Application
+## CI/CD Pipeline for Web Application
 
 ## Overview
 
